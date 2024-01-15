@@ -1,0 +1,14 @@
+{
+    "process_name": "Scraper Seguros Mapfre",
+    "queue_file": "data/input/queue.csv",
+    "separator": ",",
+    "max_retry_number": 2,
+    "max_consecutive_system_exceptions": 5,
+    "google_sheet": "cicl rpa price benchmark",
+    "sheet_read": "Quote Profiles",
+    "sheet_write": "Report Mapfre",
+    "broker_homologation": "Product Homologation Brokers",
+    "twocaptcha_key": "ffa52f3278dcca0d7505d0de8f1028cd",
+    "headless": false
+    
+}
